@@ -11,7 +11,7 @@ Follow [this link](/docs/agent0.md) to learn more about Agent0.
 - [Auth0 tenant domain](https://manage.auth0.com)
 - Auth0 SPA client ID with its callback, logout URIs set to `http://localhost:8080`
 - [API created in auth0 tenant](https://auth0.com/docs/get-started/auth0-overview/set-up-apis) with identifier configured as `agent0-api`
-- [OpenAPI API Key](https://platform.openai.com/api-keys)
+- [OpenAI API Key](https://platform.openai.com/api-keys)
 - Node version 22
 
 ## Installation
