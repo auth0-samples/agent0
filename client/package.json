@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@ai-sdk/react": "^1.2.3",
-    "@auth0/auth0-react": "^2.2.4",
+    "@auth0/auth0-react": "^2.10.0",
     "@prisma/client": "^6.5.0",
     "@tailwindcss/vite": "^4.0.14",
     "@types/react-syntax-highlighter": "^15.5.13",
